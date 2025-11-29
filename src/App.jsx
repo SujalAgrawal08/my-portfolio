@@ -430,9 +430,9 @@ export default function App() {
     e.preventDefault();
     setIsSubmitting(true);
 
-    const SERVICE_ID = "service_fgqyond";
-    const TEMPLATE_ID = "template_2jdaykt";
-    const PUBLIC_KEY = "8TB1wl9wUqmeV_Q31";
+    const SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
+    const TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
+    const PUBLIC_KEY = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
 
     // Use a promise toast for better UX (Loading -> Success/Error automatically)
     toast.promise(
