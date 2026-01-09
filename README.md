@@ -5,16 +5,14 @@
     </a>
   <br />
 
-  <h1 align="center">Rishi Agrawal | Personal Portfolio</h1>
+  <h1 align="center">Sujal Agrawal | Personal Portfolio</h1>
 
   <p align="center">
     A modern, responsive, and interactive personal portfolio website showcasing my full-stack development skills, projects, and professional journey.
   </p>
 </div>
 
-<!-- Screenshot Section - Uncomment and add image to public folder if desired
 ![Portfolio Screenshot](./public/screenshot.png) 
--->
 
 ## 🚀 About The Project
 
@@ -33,9 +31,9 @@ This project was built using the following technologies:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Framework** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Framework** | [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)] |
 | **Styling** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Animations** | ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white) |
+| **Animations** | [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)]![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white) |
 | **Icons** | React Icons / Lucide React |
 | **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
@@ -55,3 +53,4 @@ Clone the project to your local machine to view or modify it.
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/portfolio.git
+  ```
