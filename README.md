@@ -1,127 +1,57 @@
-👨‍💻 Portfolio - Agrawal Codes
+<div align="center">
+  <br />
+    <a href="https://agrawalcodes.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-agrawalcodes.vercel.app-7042f8?style=for-the-badge&logo=vercel" alt="Live Demo">
+    </a>
+  <br />
 
-Welcome to the source code for my personal portfolio website. This project showcases my skills, projects, and professional experience as a developer. It is fully responsive, accessible, and hosted on Vercel.
+  <h1 align="center">Rishi Agrawal | Personal Portfolio</h1>
 
-🚀 Live Demo: https://agrawalcodes.vercel.app/
+  <p align="center">
+    A modern, responsive, and interactive personal portfolio website showcasing my full-stack development skills, projects, and professional journey.
+  </p>
+</div>
 
-🖼️ Preview
+<!-- Screenshot Section - Uncomment and add image to public folder if desired
+![Portfolio Screenshot](./public/screenshot.png) 
+-->
 
-<!-- Add a screenshot of your landing page here -->
+## 🚀 About The Project
 
-Note: If you don't have a preview image yet, save a screenshot as preview-image.png in your public folder.
+This repository hosts the source code for my personal portfolio website. The site is designed to provide a comprehensive overview of my technical abilities, featuring a clean UI, smooth animations, and a starry space-themed background.
 
-✨ Features
+It serves as a central hub to display:
+- **About Me:** My background and passion for coding.
+- **Skills:** A visual representation of my technical stack (Frontend, Backend, and Tools).
+- **Experience:** My professional journey and internships.
+- **Projects:** Real-world applications I have built (e.g., Threads Clone, etc.).
+- **Contact:** A fully functional form to get in touch.
 
-Responsive Design: Fully optimized for desktop, tablet, and mobile devices.
+## 🛠️ Tech Stack
 
-Modern UI/UX: Clean aesthetics with smooth animations and transitions.
+This project was built using the following technologies:
 
-Project Showcase: Detailed views for individual projects with links to live demos and repositories.
+| Category | Technologies |
+| :--- | :--- |
+| **Framework** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Styling** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Animations** | ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white) |
+| **Icons** | React Icons / Lucide React |
+| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
-Contact Form: Integrated functionality for visitors to reach out directly.
+## ✨ Key Features
 
-Performance: High Lighthouse scores for performance, accessibility, and SEO.
+- **Responsive Design:** Fully optimized for Desktop, Tablet, and Mobile devices.
+- **Starry Background:** Custom canvas-based star field animation.
+- **Glassmorphism:** Modern UI design with frosted glass effects.
+- **Project Cards:** Interactive cards showcasing GitHub repos and live links.
+- **Contact Form:** Integrated for direct communication.
+- **Smooth Navigation:** Seamless scrolling between sections.
 
-Dark/Light Mode: (Optional: Remove if not applicable) Toggle between themes for better readability.
+## 💻 Run Locally
 
-🛠️ Tech Stack
+Clone the project to your local machine to view or modify it.
 
-This portfolio is built using the following technologies:
-
-Category
-
-Technology
-
-Frontend
-
-React / Next.js
-
-Styling
-
-Tailwind CSS / CSS Modules
-
-Icons
-
-React Icons / FontAwesome
-
-Animations
-
-Framer Motion (Optional)
-
-Deployment
-
-Vercel
-
-🚀 Getting Started
-
-To run this project locally, follow these steps:
-
-Prerequisites
-
-Make sure you have Node.js installed on your machine.
-
-Installation
-
-Clone the repository:
-
-git clone [https://github.com/your-username/portfolio.git](https://github.com/your-username/portfolio.git)
-
-
-Navigate to the project directory:
-
-cd portfolio
-
-
-Install dependencies:
-
-npm install
-# or
-yarn install
-
-
-Start the development server:
-
-npm run dev
-# or
-yarn dev
-
-
-Open your browser:
-Visit http://localhost:3000 to view the application.
-
-📂 Project Structure
-
-.
-├── components/      # Reusable UI components (Header, Footer, Cards)
-├── pages/           # Application routes and pages
-├── public/          # Static assets (images, icons)
-├── styles/          # Global styles and Tailwind configuration
-├── utils/           # Utility functions and constants
-└── README.md        # Project documentation
-
-
-🤝 Contributing
-
-Contributions are welcome! If you find a bug or want to add a feature, feel free to open an issue or submit a pull request.
-
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-📬 Contact
-
-If you have any questions or just want to say hi, feel free to reach out!
-
-Website: agrawalcodes.vercel.app
-
-Email: your-email@example.com
-
-LinkedIn: linkedin.com/in/your-profile
-
-Developed with ❤️ by Agrawal Codes.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/portfolio.git
