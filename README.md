@@ -31,9 +31,9 @@ This project was built using the following technologies:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Framework** | [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)] |
+| **Framework** | ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff) |
 | **Styling** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Animations** | [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)]![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white) |
+| **Animations** | ![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white) |
 | **Icons** | React Icons / Lucide React |
 | **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
