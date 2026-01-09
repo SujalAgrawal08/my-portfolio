@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://agrawalcodes.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Demo-agrawalcodes.vercel.app-7042f8?style=for-the-badge&logo=vercel" alt="Live Demo">
+      <img src="https://img.shields.io/badge/View_Portfolio-7042f8?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
     </a>
   <br />
 
