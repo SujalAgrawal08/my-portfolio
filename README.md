@@ -12,7 +12,7 @@
   </p>
 </div>
 
-![Portfolio Screenshot](./public/screenshot.png) 
+![Portfolio Screenshot](./public/Hero.png) 
 
 ## 🚀 About The Project
 
