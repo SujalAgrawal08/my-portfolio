@@ -52,5 +52,30 @@ Clone the project to your local machine to view or modify it.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/portfolio.git
-  ```
+   git clone https://github.com/SujalAgrawal08/my-portfolio.git
+   ```
+2. Navigate to the project directory
+   ```bash
+   cd my-portfolio
+   ```
+3. Install dependencies
+   ```bash
+   npm install
+   ```
+4. Open your browser
+   ```bash
+   http://localhost:3000/
+   ```
+
+## 📂 Project Structure
+```bash
+├── components/      # Reusable UI components (Hero, Navbar, Skills, etc.)
+├── public/          # Static assets (images, icons)
+├── app/             # Next.js App Router pages
+├── styles/          # Global styles and Tailwind config
+└── utils/           # Helper functions and constants
+```
+
+<div align="center"> 
+  <p>If you like this portfolio, please give it a ⭐ star!</p> 
+</div>
